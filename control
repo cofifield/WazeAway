@@ -1,0 +1,10 @@
+Package: io.github.cofifield.wazeaway
+Name: WazeAway
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Remove Waze integration from Spotify, while maintaining integration with Waze application
+Maintainer: Carter Fifield <cftweaks@gmail.com>
+Author: Carter Fifield <cftweaks@gmail.com>
+Section: Tweaks
+Depiction: https://cofifield.github.io/depictions/?p=io.github.cofifield.wazeaway
