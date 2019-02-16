@@ -1,6 +1,3 @@
-@interface SPTBannerView : UIView
-@end
-
 @interface SPTStartWazeBannerView
 @end
 
