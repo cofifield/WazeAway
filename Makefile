@@ -6,6 +6,4 @@ TWEAK_NAME = WazeAway
 WazeAway_FILES = WazeAway.xm
 
 include $(THEOS_MAKE_PATH)/tweak.mk
-
-SUBPROJECTS += wazeaway
 include $(THEOS_MAKE_PATH)/aggregate.mk
